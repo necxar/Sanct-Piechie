@@ -22,8 +22,12 @@ client.on('message', message => {
 	var anime = require('./AnimeLinks');
 
     // Commands
-
-    // Buy Command - You can buy items with this.
+	
+	if(msg.startsWith(`${prefix}MALEN`))
+	{
+		
+		message.channel.send(`**https://skribbl.io/**`);
+	}
 	if(msg.startsWith(`${prefix}ANIME`))
 	{
 		name='';

@@ -1,0 +1,16 @@
+{
+	"Doubles": {
+		"name":"Doubles",
+		"type":"Challenge",
+		"price":"10000",
+		"desc": "Wähle einen Partner und deine Gegner für eine Runde Doubles."
+	
+	},
+	"SMASH": {
+		"name":"Smash",
+		"type":"Challenge",
+		"price":"2500",
+		"desc": "Challenge jemanden zu einem Smashduell ."
+	
+	}
+}

@@ -1,0 +1,18 @@
+{
+  "name": "sanctpiechie",
+  "version": "1.0.0",
+  "description": "SanctPiechie persönlich",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tim Piechotka",
+  "license": "MIT",
+  "dependencies": {
+    "agenda": "^1.0.3",
+    "discord-eco": "0.0.10",
+    "discord.io": "github:izy521/discord.io",
+    "discord.js": "^11.3.0",
+    "moment": "^2.20.1"
+  }
+}
